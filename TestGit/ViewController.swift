@@ -21,5 +21,6 @@ class ViewController: UIViewController {
   }
 
   // first branch - first commit
+  // secon branch - second commit
 }
 
